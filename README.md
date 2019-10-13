@@ -1,6 +1,6 @@
 # APS360_Project
 This is the git repository of APS360 project
-Yuchen Wang
+Yichen Wang
 Tony Zhu
 Tony Hu
 Yu Sun
